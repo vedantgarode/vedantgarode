@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vedantgarode
-- 👀 I’m interested in Matchine learning
+- 👀 I’m interested in Matchin learning
 - 🌱 I’m currently learning cpp and python
 - 💞️ I’m looking to collaborate on matchine learning softwares
 - 📫 How to reach me Vedantgarode11@gamil.com
