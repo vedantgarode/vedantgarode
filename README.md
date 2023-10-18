@@ -2,7 +2,7 @@
 <img src="https://media.tenor.com/mhLPO2VldCkAAAAC/0001.gif" align="center" style="width: 50%" />
 </div>
 <div align="center">
-👋 Hi, I’m @vedantgarode<br>👀 I’m interested in Machine learning<br>🌱 I’m currently learning cpp and python<br>💞️ I’m looking to collaborate on machine learning softwares<br>📫 How to reach me Vedantgarode11@gamil.com
+👋 Hi, I’m @vedantgarode<br>👀 I’m interested in Machine learning<br>🌱 I’m currently Moderate in  cpp and python<br>💞️ I’m looking to collaborate on open source softwares<br>📫 How to reach me Vedantgarode11@gamil.com
   </div>
 
 
