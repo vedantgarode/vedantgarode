@@ -2,11 +2,7 @@
 <img src="https://media.tenor.com/mhLPO2VldCkAAAAC/0001.gif" align="center" style="width: 50%" />
 </div>
 <div align="center">
-Profound expertise in JAVA, PYTHON, JAVASCRIPT, and SQL, coupled with a strong background in design and integration. Adept at employing intuitive problem-solving skills to develop efficient solutions.
-  
-Passionate about conceptualizing and launching novel projects. Proven ability to bridge the gap between business requirements and technical implementations, ensuring seamless and effective outcomes.
-
-Aspiring to kickstart my professional journey as an entry-level software engineer.
+Profound expertise in JAVA, PYTHON, JAVASCRIPT, and SQL, coupled with a strong background in design and integration. Adept at employing intuitive problem-solving skills to develop efficient solutions.Passionate about conceptualizing and launching novel projects. Proven ability to bridge the gap between business requirements and technical implementations, ensuring seamless and effective outcomes.Aspiring to kickstart my professional journey as an entry-level software engineer.
 
   </div>
 
